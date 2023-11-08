@@ -1,2 +1,2 @@
 deta
-streamlit==1.10.0
+streamlit
