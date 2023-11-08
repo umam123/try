@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import streamlit as st
-from deta import Deta as Deta
+from deta import Deta 
 
 # Data to be written to Deta Base
 with st.form("form"):
