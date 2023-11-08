@@ -1,2 +1,2 @@
-deta==1.1.0
+deta
 streamlit==1.10.0
